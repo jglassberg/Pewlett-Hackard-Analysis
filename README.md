@@ -11,6 +11,6 @@ Now that Bobby has proven his SQL chops, his manager has given both of you two m
 - The mentorship program has yielded 1550 eligible employees.
 - There are enough retiring staff from across the company to train their successors. 
 
-4. Summary:
+3. Summary:
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? Yes, there are there are more than enough retirement eligible people to train the next generation of staff. 
